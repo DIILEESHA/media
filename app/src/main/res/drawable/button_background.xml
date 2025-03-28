@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Solid color for the button -->
+    <solid android:color="#070708" />  <!-- Facebook-like blue color -->
+
+    <!-- Rounded corners -->
+    <corners android:radius="16dp" />
+
+    <!-- Optional: Add a border or stroke around the button (if desired) -->
+    <!--
+    <stroke
+        android:color="#4e73df"
+        android:width="2dp"/>
+    -->
+
+    <!-- Optional: Add shadow or elevation -->
+    <!--
+    <padding
+        android:left="10dp"
+        android:right="10dp"
+        android:top="10dp"
+        android:bottom="10dp" />
+    -->
+</shape>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BEAMO💻</string>
+    <string name="follow">Follow</string>
+    <string name="like">Like</string>
+    <string name="post_caption">This is a sample caption for a post.</string>
+    <string name="enter_caption">Enter Caption</string>
+    <string name="create_new_post">Create New Post</string>
+    <string name="profile_image" />
+</resources>

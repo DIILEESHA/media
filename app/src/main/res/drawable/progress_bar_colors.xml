@@ -1,0 +1,20 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/background">
+        <shape>
+            <solid android:color="#D3D3D3" /> <!-- Light gray background -->
+            <corners android:radius="8dp" /> <!-- Rounded corners -->
+        </shape>
+    </item>
+    <item android:id="@android:id/secondaryProgress">
+        <shape>
+            <solid android:color="#90EE90" /> <!-- Optional: secondary progress color (light green for example) -->
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+    <item android:id="@android:id/progress">
+        <shape>
+            <solid android:color="#FF0000" /> <!-- Red color for the filled portion -->
+            <corners android:radius="8dp" />
+        </shape>
+    </item>
+</layer-list>
